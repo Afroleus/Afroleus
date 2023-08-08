@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afroleus
 - 👀 I’m interested in learning Python and QA automation
-- 🌱 I’m currently learning Software Quality Assurance, Python, & Automation
+- 🌱 I’m currently learning Data Analyst into Data Science, and then hopefully full stack engineer!
 - 💞️ I’m looking to collaborate on any projects to learn
 - 📫 How to reach me Linkedin (https://www.linkedin.com/in/danielsmithalex/)
 
